@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.19e0bb0c.css",
+    "main.js": "/Portfolio/static/js/main.55afe573.js",
+    "static/media/BgNight.jpg": "/Portfolio/static/media/BgNight.49ce2d134243f59ed10e.jpg",
+    "static/media/Bg2.jpg": "/Portfolio/static/media/Bg2.917dc61a6dcd129675b9.jpg",
+    "static/media/Prismatic.png": "/Portfolio/static/media/Prismatic.d42920d1e42965d2fb65.png",
+    "static/media/Reactjs.png": "/Portfolio/static/media/Reactjs.4127b36258b5e9dc8f88.png",
+    "static/media/python.png": "/Portfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/github.png": "/Portfolio/static/media/github.553c66159c5672f25df6.png",
+    "static/media/sql.png": "/Portfolio/static/media/sql.654eaef4150e58e18dbb.png",
+    "static/media/Hibernate.png": "/Portfolio/static/media/Hibernate.6ab356674a18b9d4ff11.png",
+    "static/media/java.png": "/Portfolio/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/springBoot.png": "/Portfolio/static/media/springBoot.1077255421aeb852342c.png",
+    "static/media/html.png": "/Portfolio/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/javascriptY.png": "/Portfolio/static/media/javascriptY.78206ba65e01c7d57080.png",
+    "static/media/css.png": "/Portfolio/static/media/css.463e319bad8e0edf1ef7.png",
+    "static/media/Logo.png": "/Portfolio/static/media/Logo.56cda9ad9558bbde0217.png",
+    "static/media/bootstrap.png": "/Portfolio/static/media/bootstrap.268c4375260420e8d982.png",
+    "index.html": "/Portfolio/index.html",
+    "main.19e0bb0c.css.map": "/Portfolio/static/css/main.19e0bb0c.css.map",
+    "main.55afe573.js.map": "/Portfolio/static/js/main.55afe573.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19e0bb0c.css",
+    "static/js/main.55afe573.js"
+  ]
+}
